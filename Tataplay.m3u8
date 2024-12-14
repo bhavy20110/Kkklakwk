@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Hun
+https://unknown-playlists.vercel.app/hungama-by-stevosure.m3u8
 #EXTINF:-10 tvg-id="Bha",Bha
 https://bhavy.vercel.app/Sony-Sab-by-bhavyapatel-tplay.m3u8
 #EXTINF:-1 tvg-id="121" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-405-j5jr3sz4-v2/imageContent-405-j5jr3sz4-m2.png" group-title="Lifestyle",Tata Play Fitness
